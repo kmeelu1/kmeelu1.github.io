@@ -4,7 +4,7 @@ Welcome to the official support page for TileMelt.
 If you are experiencing issues with the game, have found a bug, or just want to send feedback, we'd love to hear from you.
 
 📧 Contact Us
-Please send an email to: [Your Email Address]
+Please send an email to: support@meetingscribes.com
 
 Please include:
 
